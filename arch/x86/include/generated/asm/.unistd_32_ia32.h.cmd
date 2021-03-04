@@ -1,0 +1,1 @@
+cmd_arch/x86/syscalls/../include/generated/asm/unistd_32_ia32.h := /bin/bash '/media/marineboy122/Develop/5017_20160220/kernel-3.10/arch/x86/syscalls/syscallhdr.sh' '/media/marineboy122/Develop/5017_20160220/kernel-3.10/arch/x86/syscalls/syscall_32.tbl' 'arch/x86/syscalls/../include/generated/asm/unistd_32_ia32.h' 'i386' 'ia32_' ''
